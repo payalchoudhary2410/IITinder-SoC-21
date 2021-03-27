@@ -3,7 +3,7 @@
 ### Mentors: Payal Choudhary | Rahul Puli
 ### Mentees: 
 ## Week 1 (28th March-3rd April)
-Please find the Git cheatsheet and resources on making your first App in the Week1/Resources Folder
+Please find the Git cheatsheet and resources on making your first App in the Week1 Folder
 ### Task1:
 1.) Fork and clone this repository
 2.) Checkout a new branch
