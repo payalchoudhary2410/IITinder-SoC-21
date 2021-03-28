@@ -1,7 +1,8 @@
 # IITinder-SoC-21
 ### Project Description:
 ### Mentors: Payal Choudhary | Rahul Puli
-### Mentees: 
+### Mentees:
+1. Ved Khandekar
 ## Week 1 (28th March-3rd April)
 Please find the Git cheatsheet and resources on making your first App in the Week1 Folder
 ### Task1:
