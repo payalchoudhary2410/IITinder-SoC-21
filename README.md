@@ -4,7 +4,8 @@ The goal of this project is to create an app using Android Studio and Firebase, 
 ### Mentors: Payal Choudhary | Rahul Puli
 ### Mentees: 
 Himanshu Choudhary<br>
-Ved Khandekar
+Ved Khandekar<br>
+Vinay Kumar
 ## Week 1 (28th March-3rd April)
 Please find the Git cheatsheet and resources on making your first App in the Week1 Folder
 ### Task1:
