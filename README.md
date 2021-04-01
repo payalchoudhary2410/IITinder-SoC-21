@@ -6,7 +6,7 @@ The goal of this project is to create an app using Android Studio and Firebase, 
 Himanshu Choudhary<br>
 Ved Khandekar<br>
 Vinay Kumar<br>
-Aniket D Giri<br>
+Aniket D. Giri<br>
 
 ## Week 1 (28th March-3rd April)
 Please find the Git cheatsheet and resources on making your first App in the Week1 Folder
