@@ -8,6 +8,7 @@ Ved Khandekar<br>
 Vinay Kumar<br>
 Aniket D. Giri<br>
 Annam Saivardhan<br>
+Yash Singh
 
 ## Week 1 (28th March-3rd April)
 Please find the Git cheatsheet and resources on making your first App in the Week1 Folder
