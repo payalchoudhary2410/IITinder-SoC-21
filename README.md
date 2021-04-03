@@ -1,6 +1,6 @@
 # IITinder-SoC-21
 ### Project Description:
-The goal of this project is to create an app using Android Studio and Firebase, which will be used for making new connections, making friends, casual dating and project collaboration. It will be a blend of Facebook and Tinder. This will help IITB students, especially introverts. The duration of this project is around 8 weeks. Process includes learning and implementing simultaneously.
+The goal of this project is to create an app using Android Studio and Firebase, which will be used for making new connections, making friends, casual dating and project collaboration. It will be a blend of Facebook and Tinder. This will help IITB students, especially introverts. The duration of this project is around 8 weeks. Process includes learning and implementing simultaneously. Ideally, the app would end up boosting social interaction once the college reopens.
 ### Mentors: Payal Choudhary | Rahul Puli
 ### Mentees: 
 Himanshu Choudhary<br>
@@ -8,6 +8,7 @@ Ved Khandekar<br>
 Vinay Kumar<br>
 Aniket D. Giri<br>
 Annam Saivardhan<br>
+Yash Singh
 
 ## Week 1 (28th March-3rd April)
 Please find the Git cheatsheet and resources on making your first App in the Week1 Folder
