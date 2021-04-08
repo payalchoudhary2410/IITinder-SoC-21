@@ -8,11 +8,11 @@ Ved Khandekar<br>
 Vinay Kumar<br>
 Aniket D. Giri<br>
 Annam Saivardhan<br>
-Yash Singh
-Sagnik Chakraborty
-Sabhya Sanchi
+Yash Singh<br>
+Sagnik Chakraborty<br>
+Sabhya Sanchi<br>
 
-## Week 1 (28th March-3rd April)
+## Week 1 & 2 (28th March-7th April)
 Please find the Git cheatsheet and resources on making your first App in the Week1 Folder
 ### Task1:
 1.) Fork and clone this repository
@@ -25,3 +25,10 @@ Please find the Git cheatsheet and resources on making your first App in the Wee
 Make 2 Basic Apps! One is Calculator and the second app can be a basic app of your choice. (Eg: Timetable App/Note Keeper/Daily Reminder). 
 The resources for Calculator has already been given! For the second App, you are free to use resources from youtube, udemy or coursera! You can ask your mentors for resources if you aren't able to find them.<br>
 Make a sub-Folder in the Week1 Folder with your name and app (Eg: 20xxxxxx_AppName). Repeat steps 4.) to 5.) of Task 1.
+
+## Week 3 & 4 (8th April-Post Midsems)
+### Task1:
+Setting up the main Repo: 
+Use Import from Version Control to clone the repo: Learn how to use Git with Android Studio.This [Tutorial](https://getstream.io/blog/use-github-android-studio/) should help you
+Kindly Clone the repo: [IITinder](https://github.com/payalchoudhary2410/IITinder_main) and set up the project. Make sure your gradle files are synced well and the configuration is correct.
+
