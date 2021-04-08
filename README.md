@@ -29,6 +29,31 @@ Make a sub-Folder in the Week1 Folder with your name and app (Eg: 20xxxxxx_AppNa
 ## Week 3 & 4 (8th April-Post Midsems)
 ### Task1:
 Setting up the main Repo: 
-Use Import from Version Control to clone the repo: Learn how to use Git with Android Studio.This [Tutorial](https://getstream.io/blog/use-github-android-studio/) should help you
+Use Import from Version Control to clone the repo: Learn how to use Git with Android Studio.This [Tutorial](https://getstream.io/blog/use-github-android-studio/) should help you.<br>
 Kindly Clone the repo: [IITinder](https://github.com/payalchoudhary2410/IITinder_main) and set up the project. Make sure your gradle files are synced well and the configuration is correct.
+### Task 2:
+You are going to be split into a team of 2 people each. Hence four teams in total. You will be assigned different screens and you will be working on them together.<br>
+<pre>
+<b>Screen                                      Mentees<br></b>
+Splash Screen+Contact Page+App Icon          Sabyasachi+Vinay
+Login Page                                   Aniket+SaiVardhan
+Registration                                 Ved+Yash
+Interest Picker                              Himanshu+Sagnik
+</pre>
+You are to work on these activities together as a team.<br>
+You need to complete a basic wireframe and/or the XML Part of the activity assigned to your team as a part of Task 2<br>
 
+###  Task 3:
+Complete the Java Code of the activity you have been assigned to. If you need any sort of resources other than the ones provided below, feel free to reach out to us. Also learn to google. Make test apps and if they work implement the same code in the main app. Remember, as a beginner, it might seem overwhelming but once you build it, the satisfaction yo get is uncomparable!!!<br>
+Resources:<br>
+Firebase: Note: This is Mandatory for all of you. Make Test apps and Send the Apk to your mentors. This should be done as a test app and not in the main repo. [Firebase Tutorial](https://www.youtube.com/playlist?list=PLG1VhO2NjDZmi2FZTlwqpMkq_NU69i2Gj)<br>
+Splash Screen:[Tutorial1 ](https://medium.com/swlh/splash-screen-in-android-8ab250e40190) [ Tutorial2 ](https://youtu.be/8EcEk2pVt0A) [Tutorial3 ](https://www.youtube.com/watch?v=TY4W7LAmsGs)<br>
+Login Screen:[Tutorial1 ](https://www.youtube.com/watch?v=YhCKylWLnq0)[ Tutorial2 ](https://www.youtube.com/watch?v=lk4du-8giyQ)<br>
+Registration: The Firebase Tutorial should suffice. [ Another Tutorial](https://www.youtube.com/watch?v=wa8OrQ_e76M) <br>
+Interest: This is a challenging activity and isn't a part of any standard app. I need you guys to come up with a design and algorithm. Involves a lot of creativity, innovation, and ofcourse google!! There are no standard resources for this, Everything depends on how you envison it!
+
+### Deadlines and Some Instructions:
+<b> Developer of the Week: Himanshu<br>
+  Design Co-ordinator: Sabhyasachi<br></b>
+  
+Tasks 1 and 2 have to be completed before your midsems and you are allowed to continue Task 3 after your midsems. We will have a short meet in which I will let you know everything. We have our first checkpoint on 11th April and hence we need to gear up accordingly!
