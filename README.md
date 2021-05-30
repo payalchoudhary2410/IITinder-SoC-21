@@ -73,4 +73,17 @@ Your task: Check out some of the most amazing already existing Profle Pages. Thi
 Match Making Algorithms are the most exciting part of this IITinder. You need to come up with a unique and creative algorithm which is not only memory and time proficient; but is also socially applicable. You need to approach this from a user point of view and then think about the ways in which we can optimize this. This mainly involves working on Backend! <br>
 Your Task: Think and read about some match making algorithms! I am open to any kind of complex statistical models as long as they are optimized enough! Once this is done, you  got to make dummy data and start implementing these algorithms. Feel free to discuss with the mentors what tech stack you are comfortable with!
 
+### Problem Statement 3: The Chatting Tab : Mentees: Sai and Sabhya
+This is basically the chatting activity that you find practically in any social-media App!<be>
+Task: Check out the encryption techniques and implement the activity.
+
+### Problem Statement 4: Break the Ice : Mentees: Vinay and Aniket
+Break the Ice is one of the unique features of our app! So basically, after matching, there might be an awkwardness between people! We need to help people break the ice and start the conversation!<be>
+Task: Think of some algorithms or features via which we can implement this! Look at OkCupid's Algorithm and think of how we can tweak it to use it to break the ice! Once you are done with that! Implement the same!
+
+### Deadlines and Some Instructions:
+The Plan and research work to be completed in Week7 itself, Implementation to be done in Week 9<br>
+<b> Developer of the Week: Ved<br>
+  Design/Idea Validation Co-ordinator: Yash<br></b>
+
 
