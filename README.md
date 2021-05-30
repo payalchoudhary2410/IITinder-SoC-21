@@ -57,3 +57,20 @@ Interest: This is a challenging activity and isn't a part of any standard app. I
   Design Co-ordinator: Sabhyasachi<br></b>
   
 Tasks 1 and 2 have to be completed before your midsems and you are allowed to continue Task 3 after your midsems. We will have a short meet in which I will let you know everything. We have our first checkpoint on 11th April and hence we need to gear up accordingly!
+
+
+## Week 5  & 6: 14th MAy-28th May
+### Integration of Everything done till now and Discussion on further aspects
+To be done by all team members collectively
+
+## Week 7 & Week 8: 29th May-10th May
+There are four problem statements for this phase: Each Team ( two members) will be assigned a problem statement. These activities have to be designed from scratch and need creative minds along with good grasp of App Development Skills!<br>
+### Problem Statement 1: MyProfile : Mentees: Himanshu & Yash
+In the MyProfile Fragment, A user should have the basic details including the major and minor interests, any particular groups the user has signed into, any posts which the user wants to showcase in his profile. The MyProfile fragment must be the most attractive and creative part of the Application.<br>
+Your task: Check out some of the most amazing already existing Profle Pages. Think about what modifications are required and design a basic profile page. Finally you should be able to plugin the functionalities!<br>
+
+### Problem Statement 2: Match Making Algorithms : Mentees: Ved & Sagnik
+Match Making Algorithms are the most exciting part of this IITinder. You need to come up with a unique and creative algorithm which is not only memory and time proficient; but is also socially applicable. You need to approach this from a user point of view and then think about the ways in which we can optimize this. This mainly involves working on Backend! <br>
+Your Task: Think and read about some match making algorithms! I am open to any kind of complex statistical models as long as they are optimized enough! Once this is done, you  got to make dummy data and start implementing these algorithms. Feel free to discuss with the mentors what tech stack you are comfortable with!
+
+
